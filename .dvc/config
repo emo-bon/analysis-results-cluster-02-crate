@@ -1,7 +1,7 @@
 [core]
     remote = myremote
 [cache]
-    dir = /usr/local/scratch/dvc-cache
+    dir = /usr/local/scratch/dvc-cache-2
 ['remote "myremote"']
     url = s3://mgf-data-products-2
     endpointurl = https://s3.mesocentre.uca.fr
