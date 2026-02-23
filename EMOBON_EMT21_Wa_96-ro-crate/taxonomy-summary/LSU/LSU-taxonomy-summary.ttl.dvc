@@ -1,0 +1,5 @@
+outs:
+- md5: 7c55d5367a4764fecfe605d1e36b4a37
+  size: 620325
+  hash: md5
+  path: LSU-taxonomy-summary.ttl

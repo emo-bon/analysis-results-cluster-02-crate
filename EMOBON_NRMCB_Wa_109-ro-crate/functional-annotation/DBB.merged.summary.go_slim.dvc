@@ -1,0 +1,5 @@
+outs:
+- md5: 3fdf51053ca189c33a9c8e24edaecb12
+  size: 7721
+  hash: md5
+  path: DBB.merged.summary.go_slim

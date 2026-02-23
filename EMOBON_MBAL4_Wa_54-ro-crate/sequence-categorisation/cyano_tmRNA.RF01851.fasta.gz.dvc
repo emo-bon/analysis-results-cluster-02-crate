@@ -1,0 +1,5 @@
+outs:
+- md5: 2acf83cc83a7fc33e7ec19af0c9dc3e5
+  size: 2225
+  hash: md5
+  path: cyano_tmRNA.RF01851.fasta.gz

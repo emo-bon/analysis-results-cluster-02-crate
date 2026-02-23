@@ -1,0 +1,5 @@
+outs:
+- md5: 7e366540a8ee2c06c25fc5744b122c34
+  size: 58705825
+  hash: md5
+  path: functional-annotation.ttl
