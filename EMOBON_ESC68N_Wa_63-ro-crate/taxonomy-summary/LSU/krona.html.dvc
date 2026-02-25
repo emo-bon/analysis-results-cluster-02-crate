@@ -1,0 +1,5 @@
+outs:
+- md5: 42ec92ebdc8b5c5cd434d6f2dd5c0839
+  size: 307738
+  hash: md5
+  path: krona.html

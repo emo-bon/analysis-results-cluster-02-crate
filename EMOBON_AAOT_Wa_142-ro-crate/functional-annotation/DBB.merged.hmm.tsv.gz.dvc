@@ -1,0 +1,5 @@
+outs:
+- md5: 24f9450b9ec9c285d962006486d4febf
+  size: 10040261
+  hash: md5
+  path: DBB.merged.hmm.tsv.gz

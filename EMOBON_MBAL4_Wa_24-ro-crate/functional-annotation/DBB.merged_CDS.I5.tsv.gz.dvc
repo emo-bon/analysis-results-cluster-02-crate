@@ -1,0 +1,5 @@
+outs:
+- md5: 21e22c5129bcdd092a6f9155032e6c9c
+  size: 4669071002
+  hash: md5
+  path: DBB.merged_CDS.I5.tsv.gz
