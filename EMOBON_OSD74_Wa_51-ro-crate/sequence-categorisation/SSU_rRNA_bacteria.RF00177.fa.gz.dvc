@@ -1,0 +1,5 @@
+outs:
+- md5: d62dcc8a6e67cf0c101974404688486f
+  size: 1025057
+  hash: md5
+  path: SSU_rRNA_bacteria.RF00177.fa.gz

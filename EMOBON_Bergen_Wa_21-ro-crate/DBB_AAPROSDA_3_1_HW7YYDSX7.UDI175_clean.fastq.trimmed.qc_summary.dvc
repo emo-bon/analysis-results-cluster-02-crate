@@ -1,0 +1,5 @@
+outs:
+- md5: 96681283e0297405ce855d9c7e34fb2e
+  size: 219
+  hash: md5
+  path: DBB_AAPROSDA_3_1_HW7YYDSX7.UDI175_clean.fastq.trimmed.qc_summary

@@ -1,0 +1,5 @@
+outs:
+- md5: 359948e23ad5a36e898ce5a70f0b67aa
+  size: 322
+  hash: md5
+  path: RNaseP_nuc.RF00009.fasta.gz

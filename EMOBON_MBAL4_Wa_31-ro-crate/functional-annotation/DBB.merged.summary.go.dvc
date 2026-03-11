@@ -1,0 +1,5 @@
+outs:
+- md5: f2db3caf3ec6971cde1b8026d58b34dc
+  size: 159552
+  hash: md5
+  path: DBB.merged.summary.go

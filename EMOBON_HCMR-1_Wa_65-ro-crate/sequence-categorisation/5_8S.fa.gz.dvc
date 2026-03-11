@@ -1,0 +1,5 @@
+outs:
+- md5: 3b361966d1a80e301418427f1aa97159
+  size: 5200
+  hash: md5
+  path: 5_8S.fa.gz

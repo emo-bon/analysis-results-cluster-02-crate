@@ -1,0 +1,5 @@
+outs:
+- md5: d869e94ab889f4f4d205a8d21b519e77
+  size: 8088965
+  hash: md5
+  path: DBB.merged.emapper.summary.eggnog

@@ -1,0 +1,5 @@
+outs:
+- md5: 8fb87e77d16e19d3e92d0c34cc9391ed
+  size: 224
+  hash: md5
+  path: Metazoa_SRP.RF00017.fasta.gz

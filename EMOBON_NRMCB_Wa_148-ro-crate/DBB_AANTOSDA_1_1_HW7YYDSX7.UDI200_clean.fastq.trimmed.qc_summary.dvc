@@ -1,0 +1,5 @@
+outs:
+- md5: 624abc18fe9b1ccb184a75fa76f566ba
+  size: 219
+  hash: md5
+  path: DBB_AANTOSDA_1_1_HW7YYDSX7.UDI200_clean.fastq.trimmed.qc_summary

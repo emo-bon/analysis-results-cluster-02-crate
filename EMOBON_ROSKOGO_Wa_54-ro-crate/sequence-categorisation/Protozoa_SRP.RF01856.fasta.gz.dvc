@@ -1,0 +1,5 @@
+outs:
+- md5: 7b12486cc3d916ca79c7cad29a0b19e3
+  size: 256
+  hash: md5
+  path: Protozoa_SRP.RF01856.fasta.gz

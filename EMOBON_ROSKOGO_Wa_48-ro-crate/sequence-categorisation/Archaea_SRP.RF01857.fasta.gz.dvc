@@ -1,0 +1,5 @@
+outs:
+- md5: cefbe6d14bf3eb2b3c0c297f908e84c0
+  size: 400
+  hash: md5
+  path: Archaea_SRP.RF01857.fasta.gz

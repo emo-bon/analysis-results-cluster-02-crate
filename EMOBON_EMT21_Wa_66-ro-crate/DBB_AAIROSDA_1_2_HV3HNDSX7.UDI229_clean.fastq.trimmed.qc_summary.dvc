@@ -1,0 +1,5 @@
+outs:
+- md5: 23dc92c3e710003e281e93f5c8a4724d
+  size: 219
+  hash: md5
+  path: DBB_AAIROSDA_1_2_HV3HNDSX7.UDI229_clean.fastq.trimmed.qc_summary
