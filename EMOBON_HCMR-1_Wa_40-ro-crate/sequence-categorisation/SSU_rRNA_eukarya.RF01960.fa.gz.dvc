@@ -1,0 +1,5 @@
+outs:
+- md5: 3da452f44b2ab9fd4a9be382b5dd1d80
+  size: 213780
+  hash: md5
+  path: SSU_rRNA_eukarya.RF01960.fa.gz

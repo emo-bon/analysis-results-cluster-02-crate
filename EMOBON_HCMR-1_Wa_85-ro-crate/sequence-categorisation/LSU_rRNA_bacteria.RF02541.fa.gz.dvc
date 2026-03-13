@@ -1,0 +1,5 @@
+outs:
+- md5: 6fda0565993dfb246361510a7eb49a07
+  size: 912312
+  hash: md5
+  path: LSU_rRNA_bacteria.RF02541.fa.gz

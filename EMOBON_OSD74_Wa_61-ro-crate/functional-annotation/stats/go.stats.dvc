@@ -1,0 +1,5 @@
+outs:
+- md5: 690f0f13a86e794be6f2bfbb3a783902
+  size: 89
+  hash: md5
+  path: go.stats

@@ -1,0 +1,5 @@
+outs:
+- md5: 99c96a2df5631e3dc97ef13638a1635c
+  size: 2005345
+  hash: md5
+  path: DBB.merged.cmsearch.all.tblout.deoverlapped.bz2

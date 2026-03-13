@@ -1,0 +1,5 @@
+outs:
+- md5: cdb2e0059bfdbf6b4faf213bf561b133
+  size: 88
+  hash: md5
+  path: orf.stats
