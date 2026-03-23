@@ -1,0 +1,5 @@
+outs:
+- md5: 42e1785418107527568e44a5ad7f0f41
+  size: 101663
+  hash: md5
+  path: LSU_rRNA_eukarya.RF02543.fa.gz

@@ -1,0 +1,5 @@
+outs:
+- md5: 244cf6f8b9844f6fdb684d8eb044aefd
+  size: 219
+  hash: md5
+  path: DBB.merged.qc_summary

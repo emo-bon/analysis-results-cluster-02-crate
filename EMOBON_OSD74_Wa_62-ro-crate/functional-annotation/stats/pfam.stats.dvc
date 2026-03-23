@@ -1,0 +1,5 @@
+outs:
+- md5: f976f8e38a7b2f4ed2a43cb61521570f
+  size: 97
+  hash: md5
+  path: pfam.stats

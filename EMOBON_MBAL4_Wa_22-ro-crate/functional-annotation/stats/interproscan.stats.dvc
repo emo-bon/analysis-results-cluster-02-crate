@@ -1,0 +1,5 @@
+outs:
+- md5: a70b365bb5c07c6e9fad50a38168adf2
+  size: 118
+  hash: md5
+  path: interproscan.stats

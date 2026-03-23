@@ -1,0 +1,5 @@
+outs:
+- md5: 243c108745aa04081cd4b1e91419f39d
+  size: 63902
+  hash: md5
+  path: RNaseP_bact_a.RF00010.fasta.gz
