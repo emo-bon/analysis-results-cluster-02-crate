@@ -1,0 +1,5 @@
+outs:
+- md5: 9f1ec40dbdcd85cd2b40c93ee2bf4edf
+  size: 85
+  hash: md5
+  path: ko.stats
